@@ -195,3 +195,53 @@ span {
 .box-content p {
     color: #007185;
 }
+
+/* footer */
+footer {
+    margin-top: 15px;
+}
+
+.foot-panel1 {
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+.foot-panel2 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #222f3d;
+    color: white;
+}
+
+.foot-panel2 ul {
+    margin-top: 15px;
+}
+
+.link-list {
+    list-style: none;
+    /* margin: 30px; */
+}
+
+.link-list li {
+    margin: 10px;
+}
+
+.link-list li p {
+    color: white;
+    font-weight: 700;
+}
+
+.link-list li a {
+    text-decoration: none;
+    color: #dddddd;
+    font-size: 0.85rem;
+}
+
+.link-list li a:hover {
+    text-decoration: underline;
+}
