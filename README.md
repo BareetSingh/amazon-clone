@@ -12,3 +12,5 @@ Explore the code to see how the design and layout have been replicated to resemb
 ## Getting Started
 To view the clone, simply open the `index.html` file in a web browser.
 
+[Check Result here]([URL](https://bareetsingh.github.io/amazon-clone/))
+
